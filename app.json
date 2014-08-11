@@ -1,7 +1,6 @@
 {
   "name": "Heroku Nodejs Application",
   "description": "This application is used to deploy a simple Express application to Heroku",
-  "repository": "https://github.com/rseroter/HerokuButtonForNode/",
   "keywords": ["node", "express", "infoq"],
   "env": {
     "EXAMPLE-VAR": {
