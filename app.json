@@ -1,6 +1,6 @@
 ﻿{
   "name": "Heroku Nodejs Application",
-  "description": "This application shows how to deploy a simple Express application",
+  "description": "This application is used to deploy a simple Express application to Heroku",
   "keywords": [
     "nodejs",
     "Express",
@@ -8,7 +8,7 @@
   ],
   "website": "https://infoq.com/",
   "env": {
-    "EXAMPLE-VAR": {
+    "DEVELOPER_NAME": {
       "description": "A deploy-time environment variable."
     }
   }
