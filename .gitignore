@@ -3,6 +3,7 @@
 /node_modules
 *.njsproj
 *.suo
+.ntvs_analysis.dat
 
 # Windows image file caches
 Thumbs.db
