@@ -1,7 +1,11 @@
-﻿{
-  "name": "infoqheroku",
-  "description": "A barebones Node.js app using Express 4",
-  "repository": "https://github.com/heroku/node-js-sample",
-  "logo": "https://node-js-sample.herokuapp.com/node.svg",
-  "keywords": ["node", "express", "static"]
+{
+  "name": "Heroku Nodejs Application",
+  "description": "This application is used to deploy a simple Express application to Heroku",
+  "repository": "https://github.com/rseroter/HerokuButtonForNode/",
+  "keywords": ["node", "express", "infoq"],
+  "env": {
+    "EXAMPLE-VAR": {
+    "DEVELOPER_NAME": {
+      "description": "A deploy-time environment variable."
+    }
 }
