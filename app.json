@@ -1,0 +1,15 @@
+﻿{
+  "name": "Heroku Nodejs Application",
+  "description": "This application shows how to deploy a simple Express application",
+  "keywords": [
+    "nodejs",
+    "Express",
+    "infoq"
+  ],
+  "website": "https://infoq.com/",
+  "env": {
+    "EXAMPLE-VAR": {
+      "description": "A deploy-time environment variable."
+    }
+  }
+}

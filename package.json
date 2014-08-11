@@ -1,0 +1,15 @@
+{
+  "name": "HerokuButtonForNode",
+  "version": "0.0.0",
+  "description": "HerokuButtonForNode",
+  "main": "app.js",
+  "author": {
+    "name": "rsero_000",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
