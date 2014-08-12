@@ -3,7 +3,7 @@
   "description": "This application is used to deploy a simple Express application to Heroku",
   "keywords": ["node", "express", "infoq"],
   "env": {
-    "DEVELOPER_NAME": {
+    "FAVORITE_WEBSITE": {
       "description": "A deploy-time environment variable."
     }
   }
